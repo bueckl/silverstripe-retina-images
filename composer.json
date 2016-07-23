@@ -12,7 +12,7 @@
 		"issues": "https://github.com/otago/silverstripe-retina-images/issues"
 	},
 	"require": {
-		"silverstripe/cms": "~3.1",
-		"silverstripe/framework": "~3.1"
+		"silverstripe/cms": "~3.4",
+		"silverstripe/framework": "~3.4"
 	}
 }
